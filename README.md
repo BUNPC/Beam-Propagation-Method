@@ -3,7 +3,8 @@ Our model based on the beam propagation method calculates the wavefront propagat
 
 After you run the demo provided, the 
 
-![Figure]()
+![Figure](InputWavefront.jpg)
+![Figure](OutputWavefront.jpg)
 
 
 Notes:
