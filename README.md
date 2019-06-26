@@ -2,7 +2,7 @@
 Our model based on the beam propagation method calculates the wavefront propagation in the scattering medium with the scattering mean free path and anisotropy factor characterized.
 
 To run the code you should:
-1. Download all the Matlab files in one folder
+1. Download all the Matlab files into one folder
 2. Run demo.m
 3. To modify the optical properties of the biological medium and the incident beam geometry, change the corresponding parameters in ModelSetting.m
 
