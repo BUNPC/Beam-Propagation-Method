@@ -11,7 +11,10 @@ After you run the demo.m provided, the input and output wavefront should look li
 ![Figure](InputWavefront.jpg)
 ![Figure](OutputWavefront.jpg)
 
+For any issue reporting or suggestions, please contact Dr. Xiaojun Cheng, xcheng17@bu.edu
 
 Notes:
 1. The layer distance d should be smaller than or equal to the scattering mean free path ls.
 2. The anisotropy factor g is not an input parameter but is related to sigma_x.
+
+Updated 06/26/2019
