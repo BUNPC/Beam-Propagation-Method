@@ -1,7 +1,7 @@
 # Beam-Propagation-Method
 Our model based on the beam propagation method calculates the wavefront propagation in the scattering medium with the scattering mean free path and anisotropy factor characterized.
 
-After you run the demo provided, the 
+After you run the demo provided, the input and output wavefront should look like this:
 
 ![Figure](InputWavefront.jpg)
 ![Figure](OutputWavefront.jpg)
