@@ -6,10 +6,12 @@ To run the code you should:
 2. Run demo.m
 3. To modify the optical properties of the biological medium and the incident beam geometry, change the corresponding parameters in ModelSetting.m
 
-After you run the demo.m provided, the input and output wavefront should look like this:
+After you run the demo.m provided, the input and output wavefront and xz cross section profile should look like this:
 
 ![Figure](InputWavefront.jpg)
 ![Figure](OutputWavefront.jpg)
+![Figure](crossSection.jpg)
+
 
 For any issue reporting or suggestions, please contact Dr. Xiaojun Cheng, xcheng17@bu.edu
 
