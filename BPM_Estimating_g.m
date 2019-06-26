@@ -106,7 +106,7 @@ for m = 2:(N_diffuser+1)
     %H = exp(1i*2*pi*(-z2)*real(sqrt((1/lambda^2-k2/pi/lambda).*eva)));
      
     
-    H = exp(1i*(dz(m-1))*real(sqrt(((2*pi)^2/lambda^2-k2).*eva))*1.33);
+    H = exp(1i*(dz(m-1))*real(sqrt(((2*pi)^2/lambda^2-k2).*eva)));
     
     
     % propagate from neiboring slices
