@@ -22,6 +22,17 @@ if d>ls
     
 end
 
+dz=[ones(1,N_diffuser)]*d;
+z1=sum(dz(1:N_diffuser-N_residue));%um
+
+if NA*z1/dx_pixel>N_obj(1)
+    warning('The area of the input wavefront is not large enough to cover the desired NA. Try decrease NA, or increase dx_pixel, N_obj.')
+    
+elseif NA*z1/dx_pixel>N_obj(2)
+    warning('The area of the input wavefront is not large enough to cover the desired NA. Try decrease NA, or increase dx_pixel, N_obj.')
+    
+end
+
 
 
 
