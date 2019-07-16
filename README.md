@@ -19,7 +19,7 @@ Notes:
 1. The layer distance d should be smaller than or equal to the scattering mean free path ls.
 2. The anisotropy factor g is not an input parameter but is related to sigma_x.
 
-Updated 07/02/2019
+Updated 07/16/2019
 
 
 
