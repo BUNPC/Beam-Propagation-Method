@@ -16,10 +16,10 @@ After you run the demo.m provided, the input and output wavefront and xz cross s
 For any issue reporting or suggestions, please contact Dr. Xiaojun Cheng, xcheng17@bu.edu
 
 Notes:
-1. The layer distance d should be smaller than or equal to the scattering mean free path ls.
+1. The layer distance d should be smaller than or equal to the scattering mean free path ls to obtain a reasonalble beam profile in z.
 2. The anisotropy factor g is not an input parameter but is related to sigma_x.
 
-Updated 07/16/2019
+Updated 09/09/2019
 
 
 
