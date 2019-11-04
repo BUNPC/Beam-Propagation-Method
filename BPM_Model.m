@@ -63,7 +63,7 @@ i0(:,:)=1;
          i0=i0.*mask;            
     case'Gaussian'
         waist0 = lambda/NA/pi;% um
-        zR=waist0^2/lambda;
+        zR=pi*waist0^2/lambda;
         z2=z1; % location of the focus
         waist=waist0*sqrt(1+z2^2/zR^2);
         i0 = exp(-(x.^2+y.^2)./waist.^2).*exp(-1i*k*(x.^2+y.^2)./(2*(z2+zR^2/z2)));
