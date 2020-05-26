@@ -18,6 +18,7 @@ For any issue reporting or suggestions, please contact Dr. Xiaojun Cheng, xcheng
 Notes:
 1. The layer distance d should be smaller than or equal to the scattering mean free path ls to obtain a feasible beam profile in z.
 2. The anisotropy factor g is not an input parameter but is related to sigma_x.
+3. The model is able to calculate wave propagation for any incident wavefront. If you are interested in a special input wavefront, please contant us.
 
 Updated 09/09/2019
 
